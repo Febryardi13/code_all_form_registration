@@ -1,6 +1,6 @@
 body {
     background-color: rgb(114, 197, 169);
-    font-family: 'Courier New', Courier, monospace; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
 
 * {
@@ -45,6 +45,5 @@ input[type='password']:focus {
 
 .btn-registration:hover {
     opacity: 2;
-    
 }
 
